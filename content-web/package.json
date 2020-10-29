@@ -2,8 +2,8 @@
   "name": "content-web",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
+    "ng": "ng --port 5020",
+    "start": "ng serve --port 5020",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
